@@ -1,0 +1,2 @@
+Prefix plugins/AlphaStats/example/
+Plugin AlphaStats inputfile richness.csv outputfile alpha.stats.tsv
